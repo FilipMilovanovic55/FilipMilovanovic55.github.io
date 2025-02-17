@@ -1,1 +1,25 @@
+header {
+  font-size: 100px;
+    color: rgb(255, 160, 45);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    h1 {
+    color: rgb(255, 160, 45);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    }
+    
+    navbar {
+    padding-left: 20px;
+    font-size: 20px;
+    color: rgb(255, 160, 45);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    }
 
+    img {
+        border: solid;
+        padding: 20px;
+    }    
